@@ -27,6 +27,7 @@ neoForge {
         }
         server {
             server()
+            setGameDirectory(file('server'))
         }
     }
     mods {
