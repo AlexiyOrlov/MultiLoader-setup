@@ -1,11 +1,11 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.example.examplemod.mixin",
+  "package": "dev.buildtool.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [],
   "client": [
-    "MixinTitleScreen"
+    "dev.buildtool.neoforge.mixin.MixinTitleScreen"
   ],
   "server": [],
   "injectors": {
