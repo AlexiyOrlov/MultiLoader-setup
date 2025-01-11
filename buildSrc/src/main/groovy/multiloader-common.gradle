@@ -117,7 +117,4 @@ publishing {
             artifact sourcesJar
         }
     }
-    repositories {
-
-    }
 }
