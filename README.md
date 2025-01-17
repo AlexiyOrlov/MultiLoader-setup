@@ -2,9 +2,10 @@
 
 This project provides a Gradle project template that can compile Minecraft mods for multiple modloaders using a common project for the sources. This project does not require any third party libraries or dependencies. If you have any questions or want to discuss the project, please join our [Discord](https://discord.myceliummod.network).
 
-This fork has archives' names and publish task fixed.
+This fork has several things fixed.
 
 Note that you can't use Yarn mappings in this project.
+
 ## Getting Started
 
 ### IntelliJ IDEA
